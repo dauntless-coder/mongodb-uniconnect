@@ -1,0 +1,4 @@
+1- MongoDb atlas
+2- JDBC drivers for jar files-in lib folder
+3. src has app.java 
+4- add users under uniconnect database
